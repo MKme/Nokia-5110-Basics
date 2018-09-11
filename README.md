@@ -8,9 +8,9 @@ Adafruit Libraries required.
 
 ### Wiring For 5110 to Arduino Nano
 
-| Pin 11 | V for PWM LCD backlight on the Nokia 5110 |
-| pin 7 | Serial clock out (SCLK) |
-| pin 6 | Serial data out (DIN) |
-|pin 5 | Data/Command select (D/C) |
-|pin 4 | LCD chip select (CS)  |
-|pin 3 | LCD reset (RST) |
+| Pin 11 |  V for PWM LCD backlight on the Nokia 5110  |
+| pin 7  |  Serial clock out (SCLK) |
+| pin 6  | Serial data out (DIN) |
+|pin 5   | Data/Command select (D/C) |
+|pin 4   | LCD chip select (CS)  |
+|pin 3   | LCD reset (RST) |
